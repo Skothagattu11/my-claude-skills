@@ -1,8 +1,58 @@
 # Lifestyle Architect Skill
 
-## Designing Dharmic, Yogic, Behavior-Science-Backed Lives
+## Designing Time-Tested, Science-Backed Lives
 
-A comprehensive learning and practice system that trains you to master the integration of ancient Indian lifestyle wisdom with modern behavioral science to design sustainable, ethical, culturally-rooted lifestyle protocols.
+A comprehensive system that integrates ancient wisdom frameworks (refined over 3,000+ years) with modern behavioral science to design sustainable, meaningful lifestyle protocols.
+
+---
+
+## Language & Positioning
+
+### Core Principle: Universal First, Origins Available
+
+This skill uses **universal English terminology** as the primary language, with traditional Sanskrit terms available for enrichment. This ensures accessibility for global audiences while honoring the origins.
+
+**See:** `knowledge/00-terminology-mapping.md` for complete mapping.
+
+### Quick Reference
+
+| Say This (Universal) | Traditional Term | Context |
+|---------------------|------------------|---------|
+| The 4 Life Aims | Puruṣārthas | Framework for human pursuits |
+| Purpose | Dharma | Your authentic path |
+| The Building Years | Gṛhastha | Life stage ~25-50 |
+| Morning Protocol | Dinacharya | Daily routine design |
+| Commitment Protocol | Vrata | Time-bound challenge |
+| Growth Circle | Satsang | Accountability community |
+| Daily Practice | Sādhanā | Regular spiritual practice |
+
+### How to Present Origins
+
+**DO:**
+- Lead with universal terms
+- Introduce traditional terms with: "This is based on an ancient practice called..."
+- Connect to modern science: "Research now validates what these traditions intuited..."
+- Position as "time-tested" and "refined over millennia"
+
+**DON'T:**
+- Lead with Sanskrit terminology
+- Require users to learn or pronounce terms
+- Use multiple Sanskrit terms in one sentence
+- Position as "Indian" or "Hindu" — these are universal human insights
+
+### Credibility Framing
+
+```
+GOOD:
+- "Time-tested principles refined over 3,000+ years"
+- "Ancient wisdom validated by modern science"
+- "Practical philosophy from the world's oldest living tradition"
+
+AVOID:
+- "Hindu practices" (sounds religious/exclusive)
+- "Indian wellness" (sounds niche)
+- "Vedic science" (sounds pseudoscientific to skeptics)
+```
 
 ---
 
@@ -11,10 +61,10 @@ A comprehensive learning and practice system that trains you to master the integ
 ### What is a Lifestyle Architect?
 
 A Lifestyle Architect is someone who can:
-1. **Understand** how lifestyle was conceived in ancient Indian/yogic traditions
+1. **Understand** time-tested frameworks for life design (from traditions refined over millennia)
 2. **Map** those frameworks to modern behavioral science and product design
 3. **Design** lifestyle protocols for different personas and life stages
-4. **Build** hook-like systems that are ethical and dharma-oriented
+4. **Build** ethical engagement systems oriented toward genuine well-being
 5. **Implement** these as personal practices, coaching frameworks, or products
 
 ### Core Premise
@@ -35,10 +85,10 @@ By completing this skill, you will be able to:
 
 | Outcome | Description |
 |---------|-------------|
-| **Theoretical Mastery** | Explain puruṣārthas, āśramas, yamas/niyamas, dinacharya, and map them to behavioral science |
-| **Pattern Recognition** | See structural similarities between vrata and commitment devices, festivals and variable rewards |
+| **Theoretical Mastery** | Explain the 4 Life Aims, Life Chapters, ethical foundations, and daily architecture — map them to behavioral science |
+| **Pattern Recognition** | See structural similarities between Commitment Protocols and modern commitment devices, festivals and variable rewards |
 | **Protocol Design** | Create lifestyle protocols with clear evaluation criteria, intensity rules, and progression |
-| **Ethical Hooks** | Build engagement systems oriented to dharma (well-being, freedom), not addiction |
+| **Ethical Hooks** | Build engagement systems oriented to genuine well-being and freedom, not addiction |
 | **Product Translation** | Transform frameworks into app features, wearables, community platforms |
 
 ---
@@ -78,15 +128,15 @@ Phase 6: Mastery & Iteration (ongoing)
 
 ### The Two Traditions
 
-**Ancient Indian Approach:**
-- Life as a structured journey (āśramas)
-- Actions aligned with cosmic and social order (dharma)
-- Daily rhythms as spiritual practice (sādhanā)
+**Ancient Wisdom Approach** *(refined over 3,000+ years)*:
+- Life as a structured journey through distinct chapters (āśramas)
+- Actions aligned with purpose and authentic path (dharma)
+- Daily rhythms as intentional practice (sādhanā)
 - Community and ritual as behavioral infrastructure
 
-**Modern Behavioral Approach:**
+**Modern Behavioral Approach** *(validated by research)*:
 - Habit loops and cue-routine-reward
-- Motivation, ability, prompt (MAP)
+- Motivation, ability, prompt (B=MAP)
 - Variable rewards and investment cycles
 - Identity-based behavior change
 

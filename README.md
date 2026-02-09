@@ -46,6 +46,41 @@ Comprehensive skill for creating AI-generated motion graphics and video content 
 - Mobile-first production rules (text sizing, transition timing)
 - Content templates (Quote cards, Data stories, Transformations)
 
+---
+
+### Lifestyle Architect
+**Location:** `skills/lifestyle-architect/`
+
+Comprehensive skill for designing sustainable, meaningful lifestyles by integrating time-tested wisdom frameworks (3,000+ years) with modern behavioral science.
+
+**Files:**
+- `lifestyle-architect.md` - Main skill with 6-phase curriculum
+- `knowledge/00-terminology-mapping.md` - Universal ↔ Traditional term mapping
+- `knowledge/01-ancient-indian-frameworks.md` - The 4 Life Aims, Life Chapters
+- `knowledge/02-yogic-ethics-practice.md` - Ethical foundations, daily practice
+- `knowledge/03-ayurvedic-lifestyle.md` - Morning protocols, seasonal living
+- `knowledge/04-indian-hook-models.md` - Commitment systems, rituals
+- `knowledge/05-modern-behavioral-science.md` - Atomic Habits, Fogg, Hooked
+- `knowledge/06-evaluation-protocol-design.md` - 8-Domain assessment system
+
+**Use Cases:**
+- Building lifestyle assessment chatbots
+- Designing coaching frameworks
+- Creating wellness apps with ethical engagement
+- Personal life design and optimization
+- Grounding AI assistants in verified knowledge
+
+**Key Feature: Universal First, Origins Available**
+Uses accessible English terminology with traditional terms as optional enrichment. Works for global audiences while honoring ancient origins.
+
+**Covers:**
+- 8-Domain Life Evaluation System (Body, Mind, Spirit, Relationships, Work, Wealth, Environment, Growth)
+- 6 Archetypes (Foundation Builder, Transformation Seeker, etc.)
+- 4 Life Chapters (Learning, Building, Mentoring, Wisdom Years)
+- Morning Protocol / Daily Architecture design
+- Commitment Protocols (time-bound challenges)
+- Protocol intensity levels (Minimum Viable → Intensive)
+
 ## How to Use
 
 ### Option 1: Copy to Claude Commands (Local)
@@ -73,6 +108,16 @@ claude-skills/
 │   │   └── geo-aio-optimization.md
 │   ├── motion-graphics/
 │   │   └── motion-graphics-production.md
+│   ├── lifestyle-architect/
+│   │   ├── lifestyle-architect.md
+│   │   └── knowledge/
+│   │       ├── 00-terminology-mapping.md
+│   │       ├── 01-ancient-indian-frameworks.md
+│   │       ├── 02-yogic-ethics-practice.md
+│   │       ├── 03-ayurvedic-lifestyle.md
+│   │       ├── 04-indian-hook-models.md
+│   │       ├── 05-modern-behavioral-science.md
+│   │       └── 06-evaluation-protocol-design.md
 │   └── [future-skills]/
 ├── templates/
 │   └── geo-implementation-templates.md
@@ -108,7 +153,7 @@ claude-skills/
 |-------|-------------|--------|
 | GEO/AIO Optimization | AI search visibility optimization | ✅ Ready |
 | Motion Graphics Production | AI video generation & prompt engineering | ✅ Ready |
-| Lifestyle Architect | Designing dharmic, behavior-science-backed lives | ✅ Ready |
+| Lifestyle Architect | Time-tested wisdom + behavioral science for life design | ✅ Ready |
 
 ---
 
