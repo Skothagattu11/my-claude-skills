@@ -108,6 +108,7 @@ claude-skills/
 |-------|-------------|--------|
 | GEO/AIO Optimization | AI search visibility optimization | ✅ Ready |
 | Motion Graphics Production | AI video generation & prompt engineering | ✅ Ready |
+| Lifestyle Architect | Designing dharmic, behavior-science-backed lives | ✅ Ready |
 
 ---
 
